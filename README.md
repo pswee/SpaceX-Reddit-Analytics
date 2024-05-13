@@ -1,5 +1,5 @@
 **Repository Structure**
-SpaceX-sentiment-analysis.ipynb: Jupyter notebook containing the full analysis.
+* SpaceX-sentiment-analysis.ipynb: Jupyter notebook containing the full analysis.
 spacex_reddit_samples: csv file containing the collected data.
 figures/: Directory containing plots and figures generated in the analysis.
 
